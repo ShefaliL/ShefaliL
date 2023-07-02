@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-    <img align="right" alt="Coding" width="320" src="./media/avatar.png" />
+    <img align="right" alt="Coding" width="300" src="./media/avatar.png" />
 
 📖 Data Science graduate from Indiana University Bloomington.
 
@@ -40,6 +40,8 @@
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 	</a>
 </p>
+
+
 
 <!-- <p>Aside from my technical background, you will see me playing guitar, sketching portraits, or cooking. Outside of work, I've been working as a freelance music producer and have collaborated with different music enthusiasts on their projects. </p> -->
 
